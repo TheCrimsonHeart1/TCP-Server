@@ -1,9 +1,0 @@
-C:/Users/kylet/TCP Server/build/CMakeFiles/TCP_Server.dir
-C:/Users/kylet/TCP Server/build/CMakeFiles/Experimental.dir
-C:/Users/kylet/TCP Server/build/CMakeFiles/Nightly.dir
-C:/Users/kylet/TCP Server/build/CMakeFiles/Continuous.dir
-C:/Users/kylet/TCP Server/build/CMakeFiles/NightlyMemoryCheck.dir
-C:/Users/kylet/TCP Server/build/CMakeFiles/PACKAGE.dir
-C:/Users/kylet/TCP Server/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/kylet/TCP Server/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/kylet/TCP Server/build/CMakeFiles/ZERO_CHECK.dir
